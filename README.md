@@ -1,109 +1,139 @@
-## About Me
-
-<h3 align="left">Hi there! 👋 I'm Mohammad Saad 🚀<br>💻 I'm a Full Stack Developer who loves turning 💡ideas into reality with code.<br>🎮 I build games, 📱 apps, 🤖 dabble in machine learning, and craft sleek web experiences 🌐.<br>🔥 I’m also besties with Firebase – it's my backend buddy!<br><br>💬 Always open to collaboration, learning, and building cool stuff together!<br>Let’s connect and create magic with code ✨🛠️</h3>
-
-###
-## GitHub Stats
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsaad006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohammadsaad006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaad006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:3a2d0b,100:D4AF37&height=230&section=header&text=Mohammad%20Saad&fontSize=62&fontColor=F5E6B3&fontAlignY=38&animation=fadeIn&desc=3D%20Spatial%20Atelier%20%E2%80%A2%20Engineering%20Portfolio&descSize=18&descAlignY=58&descColor=E8DCC0" width="100%" alt="header" />
+
+<a href="https://mohammadsaad112.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;I+build+Games+%F0%9F%8E%AE+%7C+Apps+%F0%9F%93%B1+%7C+Web+Experiences+%F0%9F%8C%90;Firebase+is+my+backend+buddy+%F0%9F%94%A5;Turning+ideas+into+reality+with+code+%E2%9C%A8" alt="typing animation" />
+</a>
+
+<br/>
+
+<a href="https://mohammadsaad112.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Portfolio-Visit%20Now-D4AF37?style=for-the-badge&labelColor=0b0b0f" alt="portfolio" /></a>
+<a href="https://github.com/mohammadsaad006?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Repositories-Explore-E8DCC0?style=for-the-badge&labelColor=0b0b0f" alt="repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=mohammadsaad006&label=Profile%20Views&color=D4AF37&style=for-the-badge&labelColor=0b0b0f" alt="views" />
+
 </div>
 
-###
-## Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="maya logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## ⌚ About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+👋 Hi there, I'm **Mohammad Saad**, a **Full Stack Developer** who loves turning 💡 ideas into reality with code.
+
+- 🎮 I build **games**, 📱 **apps** and sleek **web experiences**
+- 🤖 I dabble in **machine learning** and **hardware** (Arduino)
+- 🧊 I love **3D**, from game engines to Blender and Maya
+- 🔥 **Firebase** is my backend buddy
+- 🌱 Always learning, always shipping
+- 💬 Open to **collaboration**, so let's build cool stuff together!
+
+> *"Precision of a watchmaker, imagination of an architect, power of code."*
+
+🧭 **Take a walk through my 3D portfolio:** [mohammadsaad112.vercel.app](https://mohammadsaad112.vercel.app/)
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+```text
+ ┌──────────────────────────┐
+ │  👨‍💻  dev.profile          │
+ ├──────────────────────────┤
+ │  name    : Mohammad Saad │
+ │  role    : Full Stack Dev│
+ │  focus   : Web·Game·App  │
+ │  backend : Firebase 🔥   │
+ │  status  : Building ⚙️   │
+ │  open_to : Collab 🤝     │
+ └──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cs,c,cpp,java,php,ruby,bash&theme=dark" alt="languages" /> |
+| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap&theme=dark" alt="frontend" /> |
+| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=firebase,nodejs,npm,mongodb,mysql&theme=dark" alt="backend" /> |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="mobile" /> |
+| **🎮 Game & 3D** | <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,maya&theme=dark" alt="game and 3d" /> |
+| **🔌 Hardware** | <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="hardware" /> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ps,stackoverflow&theme=dark" alt="tools" /> |
+
 </div>
 
-###
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadsaad006&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b&ring_color=D4AF37" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=mohammadsaad006&mode=daily&border_radius=5&background=0b0b0f&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8DCC0&currStreakNum=F5E6B3&sideNums=F5E6B3&dates=9a8a5a&stroke=3a2d0b&border=3a2d0b" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaad006&layout=compact&langs_count=6&card_width=320&hide_border=false&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&border_color=3a2d0b" alt="top languages" />
 
-###
+<br/><br/>
 
-<img align="right" height="150" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsaad006&bg_color=0b0b0f&color=E8DCC0&line=D4AF37&point=F5E6B3&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37" width="95%" alt="activity graph" />
 
-###
-## Contact
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadsaad006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
 </div>
 
-###
-## GitHub contributions Snake Animation
-<br clear="both">
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Featured Projects
 
-![GitHub Snake Dark](https://github.com/MohammadSaad006/code-java/blob/output/snake.svg)
+<!-- Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repository names -->
+<div align="center">
 
+<a href="https://github.com/mohammadsaad006/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_1&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 1" /></a>
+<a href="https://github.com/mohammadsaad006/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_2&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 2" /></a>
+<br/>
+<a href="https://github.com/mohammadsaad006/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_3&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 3" /></a>
+<a href="https://github.com/mohammadsaad006/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_4&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 4" /></a>
 
-###
+<br/>
+
+🎨 More builds, 3D scenes and experiments live on my **[portfolio website](https://mohammadsaad112.vercel.app/)**
+
+</div>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## 📬 Let's Connect
+
+<!-- Replace the YOUR_... parts with your real links -->
+<div align="center">
+
+<a href="https://mohammadsaad112.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+<a href="https://stackoverflow.com/users/YOUR_SO_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" /></a>
+
+</div>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohammadSaad006/code-java/output/snake.svg" alt="github contribution snake" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:3a2d0b,100:0b0b0f&height=120&section=footer&text=Let%27s%20build%20something%20great%20%E2%9C%A8&fontSize=22&fontColor=F5E6B3&fontAlignY=65" width="100%" alt="footer" />
+
+</div>
