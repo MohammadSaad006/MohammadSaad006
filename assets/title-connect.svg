@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img">
+<defs><linearGradient id="gg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8902A"/><stop offset=".5" stop-color="#F5E6B3"/><stop offset="1" stop-color="#D4AF37"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0b0b10"/><stop offset="1" stop-color="#17130a"/></linearGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#F5E6B3" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cl"><rect x="1" y="1" width="998" height="62" rx="12"/></clipPath></defs>
+<rect x="1" y="1" width="998" height="62" rx="12" fill="url(#bar)" stroke="#D4AF37" stroke-opacity=".4" stroke-width="1.5"/>
+<g clip-path="url(#cl)"><rect x="-200" y="0" width="200" height="64" fill="url(#sw)" transform="skewX(-20)"><animate attributeName="x" values="-200;1100;1100" keyTimes="0;.55;1" dur="6s" repeatCount="indefinite"/></rect><rect x="0" y="0" width="8" height="64" fill="#D4AF37"/></g>
+<text x="36" y="40" font-family="'Cascadia Code','SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#D4AF37" fill-opacity=".75">05</text>
+<line x1="82" y1="16" x2="82" y2="48" stroke="#D4AF37" stroke-opacity=".4"/>
+<text x="104" y="41" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="6" fill="url(#gg)">LET&#x27;S CONNECT</text>
+<text x="968" y="39" text-anchor="end" font-family="'Cascadia Code','SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#8f8566">// say hello</text>
+<circle cx="980" cy="32" r="4" fill="#D4AF37"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
