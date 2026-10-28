@@ -74,11 +74,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadsaad006/mohammadsaad006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadsaad006/mohammadsaad006/output/github-snake.svg" />
-  <img alt="Contribution snake eating my GitHub contributions" src="https://raw.githubusercontent.com/mohammadsaad006/mohammadsaad006/output/github-snake.svg" width="100%" />
-</picture>
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake eating my GitHub contributions" />
 
 </div>
 
