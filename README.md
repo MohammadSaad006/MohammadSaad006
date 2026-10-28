@@ -83,27 +83,20 @@
 <img height="170" src="https://streak-stats.demolab.com?user=mohammadsaad006&mode=daily&border_radius=5&background=0b0b0f&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8DCC0&currStreakNum=F5E6B3&sideNums=F5E6B3&dates=9a8a5a&stroke=3a2d0b&border=3a2d0b" alt="streak" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsaad006&layout=compact&langs_count=6&card_width=320&hide_border=false&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&border_color=3a2d0b" alt="top languages" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsaad006&bg_color=0b0b0f&color=E8DCC0&line=D4AF37&point=F5E6B3&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37" width="95%" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadsaad006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-
 </div>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repository names -->
+<!--
+  Optional: to show a project card, add a line like this with your REAL, PUBLIC repo name:
+  <a href="https://github.com/mohammadsaad006/YOUR_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=YOUR_REPO&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project" /></a>
+-->
 <div align="center">
 
-<a href="https://github.com/mohammadsaad006/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_1&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 1" /></a>
-<a href="https://github.com/mohammadsaad006/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_2&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 2" /></a>
-<br/>
-<a href="https://github.com/mohammadsaad006/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_3&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 3" /></a>
-<a href="https://github.com/mohammadsaad006/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadsaad006&repo=REPO_NAME_4&bg_color=0b0b0f&title_color=D4AF37&text_color=E8DCC0&icon_color=D4AF37&border_color=3a2d0b" alt="project 4" /></a>
+| 🎮 Games | 📱 Apps | 🌐 Web | 🤖 ML & Hardware |
+|:--:|:--:|:--:|:--:|
+| Unity · Unreal · Godot | Flutter · Android | React · Firebase | Python · Arduino |
 
 <br/>
 
